@@ -42,8 +42,8 @@ This repository contains a comprehensive roadmap for learning Operating Systems,
 Clone or download the repository to access the roadmap. Use it to guide your learning journey, complete the suggested projects, and follow the provided resources to dive deeper into specific topics.
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/workingwithali/Operating-Systems.git
 ```
 ## License
-- **This project is licensed under the MIT License.
+- **This project is licensed under the MIT License.**
 You can adjust the clone URL and repository name to fit your actual GitHub repo.
